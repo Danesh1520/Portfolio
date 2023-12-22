@@ -1901,7 +1901,7 @@ header{
 	max-width: 550px;
 	background: #FFFFFF;
 	position: relative;
-	margin: 10px auto;
+	margin: 0 auto;
 }
 .popup-modal .media {
 	position: relative;
