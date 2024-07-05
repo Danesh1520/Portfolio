@@ -18,7 +18,6 @@ This is a personal portfolio website showcasing my skills, education, and projec
     - [Education](#education)
     - [Projects](#projects)
     - [Contact](#contact)
-  - [License](#license)
 
 ## Demo
 
