@@ -21,6 +21,8 @@ This is a personal portfolio website showcasing my skills, education, and projec
 
 ## Demo
 
+![image](https://github.com/Danesh1520/Portfolio/images/Portfolio.jpg)
+
 You can view the live demo of the website [here](https://danesh1520.github.io/Portfolio/).
 
 ## Features
