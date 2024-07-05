@@ -77,7 +77,3 @@ Showcases my projects with descriptions, images, and links to the respective Git
 ### Contact
 
 Includes links to my social media profiles and contact information, allowing visitors to reach out to me easily.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
