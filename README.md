@@ -35,8 +35,8 @@ You can view the live demo of the website [here](https://danesh1520.github.io/Po
 
 - HTML
 - CSS
+- Javascript
 - Bootstrap
-- Font Awesome
 
 ## Installation
 
