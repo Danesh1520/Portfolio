@@ -167,7 +167,7 @@ nav a:hover {
   max-width: 100%;
   height: auto;
   border-radius: 50%;
-  filter: grayscale(40%) drop-shadow(1px 1px 5px #3a3a3a);
+  filter: drop-shadow(1px 1px 15px #3a3a3a);
 }
 
 #portfolio-img:hover {
